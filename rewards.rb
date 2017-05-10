@@ -24,5 +24,15 @@ puts total_rewards("Chase Bank Unlimited", 0.015, 500, 12, 1_300, 150)
 
 puts
 
-puts total_rewards("Chase Ink Business Cash", 0.01, 3_000, 32, 1_300, 3--)
+puts total_rewards("Chase Ink Business Cash", 0.01, 3_000, 18, 1_300, 300)
+puts total_rewards("Chase Bank Unlimited", 0.015, 500, 18, 1_300, 150)
+
+puts
+
+puts total_rewards("Chase Ink Business Cash", 0.01, 3_000, 24, 1_300, 300)
+puts total_rewards("Chase Bank Unlimited", 0.015, 500, 24, 1_300, 150)
+
+puts
+
+puts total_rewards("Chase Ink Business Cash", 0.01, 3_000, 32, 1_300, 300)
 puts total_rewards("Chase Bank Unlimited", 0.015, 500, 32, 1_300, 150)
